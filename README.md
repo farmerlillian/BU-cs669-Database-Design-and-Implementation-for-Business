@@ -1,4 +1,4 @@
-This is the Final Project of CS669 at Boston University.
+#BU-CS669-Database-Design-and-Implementation-for-Business-Final-Project
 
 This database is designed for the "Pomodoro-Workout clock" I completed in CS521.
 
